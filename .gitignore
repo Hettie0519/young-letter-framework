@@ -1,7 +1,0 @@
-# 忽略文件
-*.pdf
-*.py
-*.json
-*.png
-*.jpg
-__pycache__/
